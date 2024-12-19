@@ -1,0 +1,11 @@
+cadNovo.php --> API
+login.php ----> API
+excluirApi.php ---> API
+consu_api.php ----> Consome API login
+inserir_cad.php --> Consome API cadNovo
+excluir_cad.php --> Consome API excluirApi
+db.php -------> Conexão com Banco de Dados
+cabec.php ----> Front-End
+principal_Login.php --> Front de Cadastro
+principal_Busca.php --> Front de Pesquisa
+principal_Excluir.php --> Front de Pesquisa
