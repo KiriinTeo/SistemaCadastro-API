@@ -13,4 +13,4 @@ VALUES ('usuario@teste.com', encode(digest('senha123', 'sha256'), hex));
 
 DELETE FROM usuario WHERE email = '...';
 
-Senhas: senha123, teste123
+Senhas: senha123, teste123, segundo123, usuario123
